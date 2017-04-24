@@ -1,0 +1,6 @@
+c:\users\pro\documents\visual studio 2013\Projects\Problema2\Consola\bin\Debug\Consola.exe.config
+c:\users\pro\documents\visual studio 2013\Projects\Problema2\Consola\bin\Debug\Consola.exe
+c:\users\pro\documents\visual studio 2013\Projects\Problema2\Consola\bin\Debug\Consola.pdb
+c:\users\pro\documents\visual studio 2013\Projects\Problema2\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+c:\users\pro\documents\visual studio 2013\Projects\Problema2\Consola\obj\Debug\Consola.exe
+c:\users\pro\documents\visual studio 2013\Projects\Problema2\Consola\obj\Debug\Consola.pdb
